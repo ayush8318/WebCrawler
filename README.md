@@ -3,7 +3,7 @@
 
 The **Web Crawler** models internet pages as a directed graph, efficiently extracting and organizing web data for advanced analysis. This tool enables data aggregation for cybersecurity, research datasets, and content clustering.
 
- <img src="https://github.com/ayush8318/WebCrawler/blob/e1e50894ea9964f4244a6c832108efc62658517e/Flow.png" alt="" width="450" height="400">   <img src="https://github.com/ayush8318/WebCrawler/blob/e1e50894ea9964f4244a6c832108efc62658517e/Data%20FLow%20Diagram.png" alt="" width="450" height="400">
+ <img src="https://github.com/ayush8318/WebCrawler/blob/e1e50894ea9964f4244a6c832108efc62658517e/Flow.png" alt="" width="300" height="300">   <img src="https://github.com/ayush8318/WebCrawler/blob/e1e50894ea9964f4244a6c832108efc62658517e/Data%20FLow%20Diagram.png" alt="" width="300" height="300">
 
 
 <img src="https://github.com/ayush8318/WebCrawler/blob/e1e50894ea9964f4244a6c832108efc62658517e/Activity%20Diagram.png" alt="" width="450" height="400"> <img src="https://github.com/ayush8318/WebCrawler/blob/df71f9c8e4c16a230d01bdd4e12e3d119c048c87/img.jpg" alt="" width="450" height="400">
